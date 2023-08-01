@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "098E6987D48F110D7D92001F551B88A9",
+  "keywordClasses": [
+    {
+      "name": "dataMaster.building",
+      "keywordMethods": [
+        {
+          "name": "createBuilding",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

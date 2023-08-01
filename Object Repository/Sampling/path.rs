@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>94057e7a-b0a1-4b05-919c-9c76b497b104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4ac20e7c-2d7b-4c12-8ddc-bbe5744d6f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M13.359 11.238C15.06 9.72 16 8 16 8s-3-5.5-8-5.5a7.028 7.028 0 0 0-2.79.588l.77.771A5.944 5.944 0 0 1 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.134 13.134 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755-.165.165-.337.328-.517.486l.708.709z</value>
+      <webElementGuid>0a31b126-704f-44a9-92c8-9bd9bd0fae3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;main-content-wrapper vh-100 mt-0 px-0 py-0 style_login__q5zHS&quot;]/div[@class=&quot;style_form-container__1OCHe&quot;]/form[1]/div[@class=&quot;css-1s2f72d&quot;]/div[@class=&quot;text-center my-auto undefined css-metzo1&quot;]/div[@class=&quot;mx-auto px-4 text-left css-0&quot;]/div[2]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;chakra-input__group css-4302v8&quot;]/div[@class=&quot;chakra-input__right-element css-1j0k2uy&quot;]/div[1]/svg[1]/path[1]</value>
+      <webElementGuid>96670de6-9de0-4be7-83c7-f16f032db9bf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

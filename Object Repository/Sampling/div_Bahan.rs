@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bahan</name>
+   <tag></tag>
+   <elementGuidId>6dbc0cb8-33d0-4742-9362-e6918afc01cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>285cb625-37a5-49e0-82c7-298883a6396e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-item </value>
+      <webElementGuid>1705aead-c8e2-4b64-9db1-85788f21eece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bahan</value>
+      <webElementGuid>44d1b52a-bd54-4a25-9663-649fe866f297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-2w3wyk&quot;]/div[@class=&quot;main-container css-0&quot;]/div[@class=&quot;content css-0&quot;]/div[@class=&quot;css-s9o7kj&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1bf7e4w&quot;]/div[@class=&quot;flex-left-wrapper&quot;]/div[@class=&quot;tab-item&quot;]</value>
+      <webElementGuid>3a73941c-5d31-4ff0-8dc1-d93b5dbc55c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>7e61e71a-20b7-4166-bd01-7a853d33be9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alat'])[1]/following::div[1]</value>
+      <webElementGuid>0570821b-f788-4ac3-a552-d43886cce6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruangan'])[1]/following::div[2]</value>
+      <webElementGuid>d07b66b9-19b3-4135-8156-db3293efc5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Uji'])[1]/preceding::div[1]</value>
+      <webElementGuid>12f6c587-3c21-4362-8e85-ec1eb6d0aea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/preceding::div[2]</value>
+      <webElementGuid>3d5bba9c-4072-4c48-b0a4-bca2bf5f82e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bahan']/parent::*</value>
+      <webElementGuid>b122aa8f-2ea4-4325-8403-2b94cffb319e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>a2d51970-61a2-4942-b44f-a2ac47552b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bahan' or . = 'Bahan')]</value>
+      <webElementGuid>4c6d4627-1eca-46a5-904b-fe7880c1bd61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

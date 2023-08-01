@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Create Building</name>
+   <tag></tag>
+   <elementGuidId>d5cc6326-1b96-4040-b326-e4566da45744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chakra-modal--header-21</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='chakra-modal--header-21']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'chakra-modal--header-21' and (text() = 'Create Building' or . = 'Create Building')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>86e77e5c-de64-4b07-8fdc-f62639380d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-modal__header css-9fgtzh</value>
+      <webElementGuid>11a28e18-5929-4415-bd99-9f4ebf49d874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chakra-modal--header-21</value>
+      <webElementGuid>e733511c-cae5-4711-b1fb-8aa2563763a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Building</value>
+      <webElementGuid>2ae12ab7-5821-4350-9bb3-abd8e4d37631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--header-21&quot;)</value>
+      <webElementGuid>3f4537c1-8f9e-4102-9d6c-52a109b09cc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//header[@id='chakra-modal--header-21']</value>
+      <webElementGuid>2c4dab8d-d13c-4042-a5fc-6675809c803e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='chakra-modal-21']/header</value>
+      <webElementGuid>067f76f8-45a3-487f-b39b-722becbea503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'buildingId', '&quot;', ')')])[1]/following::header[1]</value>
+      <webElementGuid>a4d8d8b9-f23e-4ae6-bcae-93f263154bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::header[1]</value>
+      <webElementGuid>7ada3d65-77d9-430d-9adb-e3a758344c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::header[1]</value>
+      <webElementGuid>43273f48-8807-4cc6-9fe9-a086cb2951a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>ed13e128-d009-423c-b4ea-4182c8448e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[@id = 'chakra-modal--header-21' and (text() = 'Create Building' or . = 'Create Building')]</value>
+      <webElementGuid>c6efb496-2ce1-40aa-bbf9-066e5f5871b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

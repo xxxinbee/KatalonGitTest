@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Gedung Setsuko</name>
+   <tag></tag>
+   <elementGuidId>8707b967-f2c5-4337-a645-aeae308f3fee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${gdName}' or . = '${gdName}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c0a5a24b-b4c1-466c-9ad6-f8dcbf0b1d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>5338a95e-9c83-4aff-b829-0cdb131f639c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${gdName}</value>
+      <webElementGuid>0b8fc8a5-7282-47fc-8e03-9a4199048a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-2w3wyk&quot;]/div[@class=&quot;main-container css-0&quot;]/div[@class=&quot;content css-0&quot;]/div[@class=&quot;main-content-wrapper list-organization style_list-organization__1SocZ&quot;]/div[@class=&quot;table-container table-pending&quot;]/table[1]/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>98275889-15d3-402e-a759-e8763b0601a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/table/tbody/tr/td[4]</value>
+      <webElementGuid>2ad957a5-fd7b-4084-b43f-0be016ac4fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GD585'])[1]/following::td[1]</value>
+      <webElementGuid>bd81ddbd-c63c-4ffa-b6d5-a72145c634c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building'])[1]/following::td[2]</value>
+      <webElementGuid>fc6bef21-23fe-4b82-a1ff-d0fba6902e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::td[1]</value>
+      <webElementGuid>5d0c4c6f-ea2c-46df-926f-b44fa084c5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building'])[2]/preceding::td[3]</value>
+      <webElementGuid>b3bcf991-876e-4064-8b24-2cfbd763e724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gedung Setsuko']/parent::*</value>
+      <webElementGuid>6b313a5c-e826-437f-96e5-0cc1e4e61894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>38fa3d1f-515d-4c99-969e-7ae2e4576f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Gedung Setsuko' or . = 'Gedung Setsuko')]</value>
+      <webElementGuid>4c8280ce-2482-4094-9767-da3c203c9a62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

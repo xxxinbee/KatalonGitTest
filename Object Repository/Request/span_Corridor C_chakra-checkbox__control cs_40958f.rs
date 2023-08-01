@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corridor C_chakra-checkbox__control cs_40958f</name>
+   <tag></tag>
+   <elementGuidId>21fd47f4-a6a0-4c9d-a4e7-faabd217e3e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-50']/div/div[2]/div/table/tbody/tr[4]/td/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>126fc0f0-a91b-4976-851a-d4386afa2d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox__control css-xxkadm</value>
+      <webElementGuid>5d38d9be-53bc-4514-82dd-328ee21216cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cb4d5cd2-fe9d-43f1-8f8a-0987d3bc8713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-50&quot;)/div[@class=&quot;css-16xdagr&quot;]/div[@class=&quot;css-4ujym4&quot;]/div[@class=&quot;w100 table-fix-head border-top-fix-header css-1shusld&quot;]/table[@class=&quot;chakra-table table-fixed-header css-5605sr&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-0&quot;]/td[@class=&quot;css-xumdn4&quot;]/label[@class=&quot;chakra-checkbox css-1lc114p&quot;]/span[@class=&quot;chakra-checkbox__control css-xxkadm&quot;]</value>
+      <webElementGuid>2683fe8a-5dd5-41f4-81a7-549785bc50eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-50']/div/div[2]/div/table/tbody/tr[4]/td/label/span</value>
+      <webElementGuid>b085fed9-11b0-42d8-aebc-e4ee093c27c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/label/span</value>
+      <webElementGuid>25ad6f40-1d28-474f-ad9b-5c42fd5ea08a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

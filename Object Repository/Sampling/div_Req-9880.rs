@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Req-9880</name>
+   <tag></tag>
+   <elementGuidId>dc347f5e-89eb-4b67-8b37-459a8a8215cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > div.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dca8a80-4c99-4d8c-b372-2ac772b3fdf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-0</value>
+      <webElementGuid>655c569a-e58b-4690-bdc9-a06866c05f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Req-9880</value>
+      <webElementGuid>05e67830-1322-42da-a203-66ea42ee1fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-2w3wyk&quot;]/div[@class=&quot;main-container css-0&quot;]/div[@class=&quot;content css-0&quot;]/div[@class=&quot;css-s9o7kj&quot;]/div[@class=&quot;css-16xdagr&quot;]/div[@class=&quot;css-98fqys&quot;]/div[@class=&quot;w100 css-0&quot;]/div[1]/div[@class=&quot;table-responsive Table_table-hover__kAydt&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;css-0&quot;]</value>
+      <webElementGuid>1ac4921b-b7c5-43fb-9538-239ea79457ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/table/tbody/tr/td[4]/div</value>
+      <webElementGuid>f3f491bc-3391-489c-8396-127e7ba7c65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EM-M'])[1]/following::div[1]</value>
+      <webElementGuid>988498d1-00f9-48af-9a13-efd786dfe9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[1]</value>
+      <webElementGuid>d9b02263-2b6e-4f96-b7de-d0f419946e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::div[1]</value>
+      <webElementGuid>7d897aef-fbea-4584-8ba2-dc1f4d362626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[2]/preceding::div[2]</value>
+      <webElementGuid>608f272d-c91c-40c4-b058-7f7a314cdceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Req-9880']/parent::*</value>
+      <webElementGuid>18a52dbb-0d98-4a11-a522-fc25a05c4873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div</value>
+      <webElementGuid>b247dc33-0df3-4a3f-95ad-5f959a9b08d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Req-9880' or . = 'Req-9880')]</value>
+      <webElementGuid>68f05e47-8972-4b89-8930-72821dea9e55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

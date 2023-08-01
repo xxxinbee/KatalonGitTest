@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Noper</name>
+   <tag></tag>
+   <elementGuidId>82041a9a-2401-4e98-b194-727fe2742a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > div.css-0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '2418/04-K/VII/2023' or . = '2418/04-K/VII/2023')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Monitoring'])[1]/preceding::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1f2ac60-7bf5-42cf-9de8-ab71a087ecf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-0</value>
+      <webElementGuid>b388480b-506a-4a3c-884d-0d8e255af9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${noper}</value>
+      <webElementGuid>53271ea1-b0e5-4555-ad04-1732bb6218e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-2w3wyk&quot;]/div[@class=&quot;main-container css-0&quot;]/div[@class=&quot;content css-0&quot;]/div[@class=&quot;css-s9o7kj&quot;]/div[@class=&quot;css-16xdagr&quot;]/div[@class=&quot;css-98fqys&quot;]/div[@class=&quot;w100 css-0&quot;]/div[1]/div[@class=&quot;table-responsive Table_table-hover__kAydt&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;css-0&quot;]</value>
+      <webElementGuid>12267e09-ad14-4cca-b26f-f3653cbd5191</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>688bf0a0-ec2f-4a3a-8aa1-a3bda283ab97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS'])[1]/following::div[1]</value>
+      <webElementGuid>a8b0a2bb-7103-4a5a-9238-b269d97e7fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TGL. PERMOHONAN'])[1]/following::div[1]</value>
+      <webElementGuid>548d4f4d-0612-48cd-8ea9-f6a88592060f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ITEM0002 - Vaksin nOPV Type 2 50 ds'])[1]/preceding::div[1]</value>
+      <webElementGuid>e3710eb3-988f-48ad-8e49-e2e7b5b551ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Monitoring'])[1]/preceding::div[2]</value>
+      <webElementGuid>d0ba6b09-e6fa-490e-a0b8-52f685d8b432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2418/04-K/VII/2023']/parent::*</value>
+      <webElementGuid>dcc4d958-37b8-448e-9bed-bc7266052f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>36dcef9a-9d2b-40b8-9d9c-a40629e33232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2418/04-K/VII/2023' or . = '2418/04-K/VII/2023')]</value>
+      <webElementGuid>d7d84f72-5e91-408b-96b8-06ee468b590a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

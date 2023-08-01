@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_-_chakra-input disabled-input css-ygxf8c</name>
+   <tag></tag>
+   <elementGuidId>69ff9b8d-4ecf-4e5c-9a5a-3eeabcfc5164</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#popover-trigger-67 > div.chakra-input__group.css-4302v8 > input.chakra-input.disabled-input.css-ygxf8c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6371230a-e006-4d78-934a-9f766912d167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih Tanggal Berakhir Sampling</value>
+      <webElementGuid>8bd4f104-8520-4f2e-b26d-1be58d6e2495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input disabled-input css-ygxf8c</value>
+      <webElementGuid>78f8a2f5-7fa8-4750-8733-4cc615b0b997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>443302d6-dcc3-4402-823e-5ac0d3545f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-trigger-67&quot;)/div[@class=&quot;chakra-input__group css-4302v8&quot;]/input[@class=&quot;chakra-input disabled-input css-ygxf8c&quot;]</value>
+      <webElementGuid>aabc0d29-2676-4f48-b318-4ce58e6849b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>5a3198d6-393d-4f88-be3c-a34bdaa995dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-trigger-67']/div/input</value>
+      <webElementGuid>a436e6d5-4129-48d8-ba9f-2a66662608c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>3eb09651-20ff-4b08-8ecd-9cb1f3c29895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Pilih Tanggal Berakhir Sampling']</value>
+      <webElementGuid>1199f939-6e44-4b6e-b1c4-47d683192000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

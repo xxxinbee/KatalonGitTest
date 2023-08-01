@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check_room_a</name>
+   <tag></tag>
+   <elementGuidId>9a8c7109-fd8b-465d-b03b-b65e94e1fee1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;chakra-modal--body-49&quot;)/div[@class=&quot;css-16xdagr&quot;]/div[@class=&quot;css-4ujym4&quot;]/div[@class=&quot;w100 table-fix-head border-top-fix-header css-1shusld&quot;]/table[@class=&quot;chakra-table table-fixed-header css-5605sr&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-0&quot;]/td[@class=&quot;css-xumdn4&quot;]/label[@class=&quot;chakra-checkbox css-1lc114p&quot;]/span[@class=&quot;chakra-checkbox__control css-xxkadm&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[2]/td/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f75e5d56-0898-4be8-97c2-69fc93f68392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox__control css-xxkadm</value>
+      <webElementGuid>d24f828c-4750-48b0-865c-925fd0e45a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>864766bc-5046-412b-ad38-72144aa5af48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-49&quot;)/div[@class=&quot;css-16xdagr&quot;]/div[@class=&quot;css-4ujym4&quot;]/div[@class=&quot;w100 table-fix-head border-top-fix-header css-1shusld&quot;]/table[@class=&quot;chakra-table table-fixed-header css-5605sr&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-0&quot;]/td[@class=&quot;css-xumdn4&quot;]/label[@class=&quot;chakra-checkbox css-1lc114p&quot;]/span[@class=&quot;chakra-checkbox__control css-xxkadm&quot;]</value>
+      <webElementGuid>2dc77c8b-9a14-414d-8ac8-724f89efa5eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-49']/div/div[2]/div/table/tbody/tr[2]/td/label/span</value>
+      <webElementGuid>6361801e-c260-430a-8ed6-d5ad466f6326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/label/span</value>
+      <webElementGuid>093f65c8-3a6f-40cb-a400-258a3389e079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Authorization</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('Username') : 'A083', ('Password') : 'bi0farma']</initValue>
+      <name>Op_Building</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('Username') : '0883', ('Password') : 'bi0farma', ('Digisign') : '111111']</initValue>
+      <name>Rev_Building</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://q100-testing.biofarma.co.id/login'</initValue>
+      <name>Url_QAS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[:]</initValue>
+      <name>batchNumber</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

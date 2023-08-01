@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sampling</name>
+   <tag></tag>
+   <elementGuidId>bcdeafd0-6451-4221-83a8-e1cbe50e9674</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > div.sidebar-container.css-0 > div.nav-item.m-0.sidebar-item.disable-select.css-0 > span.title.text-medium.hover-show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submenu']/div/a[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>656b474b-ff71-4372-a107-9162416cd717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title text-medium hover-show</value>
+      <webElementGuid>6e272041-84a7-4121-8ca4-23a3cf482ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sampling</value>
+      <webElementGuid>53488f65-ea86-4a78-a2b3-d0bea22002ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu&quot;)/div[@class=&quot;css-0&quot;]/a[2]/div[@class=&quot;sidebar-container css-0&quot;]/div[@class=&quot;nav-item m-0 sidebar-item disable-select css-0&quot;]/span[@class=&quot;title text-medium hover-show&quot;]</value>
+      <webElementGuid>7a4c8683-ec0e-4448-83fb-cdbbd4f37fe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='submenu']/div/a[2]/div/div/span</value>
+      <webElementGuid>61d617ed-aedb-490c-a977-63e33441677f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request'])[1]/following::span[1]</value>
+      <webElementGuid>f09be41d-2487-4a19-b5f9-ee23cb5d8dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Control'])[1]/following::span[2]</value>
+      <webElementGuid>ca6f786b-29c5-4266-873f-93175e58a6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c3a2173-43c1-4bbb-8ca0-bc965dcc4f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[2]</value>
+      <webElementGuid>d385bb1c-c841-42a2-975b-80a6d00aba0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sampling']/parent::*</value>
+      <webElementGuid>014090d3-404c-498d-ac02-8782282fc9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div/span</value>
+      <webElementGuid>4cb7da0a-7acc-45bb-a733-cb1223cece42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sampling' or . = 'Sampling')]</value>
+      <webElementGuid>82d05b3f-798a-43d1-b64d-65a5a7a16ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

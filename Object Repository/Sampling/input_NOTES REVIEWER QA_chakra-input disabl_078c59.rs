@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_NOTES REVIEWER QA_chakra-input disabl_078c59</name>
+   <tag></tag>
+   <elementGuidId>5a47e257-1cb0-44d8-ac76-2b6275d3ad48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.disabled-input.css-ygxf8c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>401f219a-8264-4cb9-94a8-0f3dbae9aa91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Waktu Mulai</value>
+      <webElementGuid>01ae2ab5-2af8-4981-9e04-c72008d7230b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input disabled-input css-ygxf8c</value>
+      <webElementGuid>f58c7e3e-e4c0-4a5c-a4f7-fa55e8773ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>12adc69a-6f16-49ab-ba64-6799ddf56c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-trigger-74&quot;)/div[@class=&quot;chakra-input__group css-4302v8&quot;]/input[@class=&quot;chakra-input disabled-input css-ygxf8c&quot;]</value>
+      <webElementGuid>fea78e6f-67fb-47d0-b19f-b4577f5a1604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>cfdf4495-a5c7-4667-a88a-14d0574db01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-trigger-74']/div/input</value>
+      <webElementGuid>9268ff82-499f-4944-a1fc-4e06488e95df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/input</value>
+      <webElementGuid>87a8a963-97f3-41f8-9aba-e2f41da5fae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Waktu Mulai']</value>
+      <webElementGuid>c05e8202-cbc8-4d8a-8420-16ebdeeb303c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

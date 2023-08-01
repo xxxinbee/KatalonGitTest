@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FilterStatusSelect AllDraftNewCompleted_c5ae96</name>
+   <tag></tag>
+   <elementGuidId>539c9f3e-f1ea-4f77-ab93-e5c77229a1a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-16xdagr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bf44fd2-c76c-4d4f-90f8-09770720fd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-16xdagr</value>
+      <webElementGuid>af56c65f-4690-45cd-8213-ed502d9b6095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FilterStatusSelect AllDraftNewCompletedCancelledRejectStart DateEnd DateOrganizationPilih OrganisasiApplyCreate RequestNO. PERMOHONANNAMA SEDIAANJENISNO. BATCHTGL. PERMOHONANSTATUS2262/3922/VII/2023-Environment MonitoringB-HF-0706-0026 Jul 2023Completed2261/3922/VII/2023-Environment MonitoringB-HF-0706-0016 Jul 2023Completed2260/3922/VII/2023-Environment Monitoring-6 Jul 2023Completed2259/181/VII/2023-Environment Monitoringt12346 Jul 2023Completed2258/181/VII/2023-Environment Monitoringpre-try-21 Jul 2023Completed&lt; 1 ></value>
+      <webElementGuid>1e061966-8721-4a72-bff7-f3a2f2b9bf1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-10klw3m&quot;]/div[@class=&quot;css-2w3wyk&quot;]/div[@class=&quot;main-container css-0&quot;]/div[@class=&quot;content css-0&quot;]/div[@class=&quot;css-s9o7kj&quot;]/div[@class=&quot;css-16xdagr&quot;]</value>
+      <webElementGuid>c0ca2106-86d3-4cc9-b18a-78caf77b6c8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>c2aa7eea-fa17-4d63-aa46-8276956d35dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[5]</value>
+      <webElementGuid>47da5850-c2a1-4bce-888b-d280828cc918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meidina Istiqoma Agpriatin'])[1]/following::div[7]</value>
+      <webElementGuid>418a34ab-a729-46b9-952c-0d3f7a950460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>f1945d85-e971-410b-adb1-ad8178a167ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FilterStatusSelect AllDraftNewCompletedCancelledRejectStart DateEnd DateOrganizationPilih OrganisasiApplyCreate RequestNO. PERMOHONANNAMA SEDIAANJENISNO. BATCHTGL. PERMOHONANSTATUS2262/3922/VII/2023-Environment MonitoringB-HF-0706-0026 Jul 2023Completed2261/3922/VII/2023-Environment MonitoringB-HF-0706-0016 Jul 2023Completed2260/3922/VII/2023-Environment Monitoring-6 Jul 2023Completed2259/181/VII/2023-Environment Monitoringt12346 Jul 2023Completed2258/181/VII/2023-Environment Monitoringpre-try-21 Jul 2023Completed&lt; 1 >' or . = 'FilterStatusSelect AllDraftNewCompletedCancelledRejectStart DateEnd DateOrganizationPilih OrganisasiApplyCreate RequestNO. PERMOHONANNAMA SEDIAANJENISNO. BATCHTGL. PERMOHONANSTATUS2262/3922/VII/2023-Environment MonitoringB-HF-0706-0026 Jul 2023Completed2261/3922/VII/2023-Environment MonitoringB-HF-0706-0016 Jul 2023Completed2260/3922/VII/2023-Environment Monitoring-6 Jul 2023Completed2259/181/VII/2023-Environment Monitoringt12346 Jul 2023Completed2258/181/VII/2023-Environment Monitoringpre-try-21 Jul 2023Completed&lt; 1 >')]</value>
+      <webElementGuid>6e8c7b9a-d03a-4e49-8fc2-a55cb1209e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
